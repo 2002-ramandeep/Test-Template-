@@ -1,0 +1,25 @@
+1.What is the SI unit of force? 
+Newton(N)
+m/sec
+Ampere(A)
+m
+2.What is the focal length of a concave lens?
+positive
+negative
+none of the above
+zero
+3.What is the force that opposes motion between surfaces in contact?
+gravity
+magnetic field
+friction
+none of the above 
+4.Name the process by which heat is transferred through a material without any movement of the material itself.
+conduction
+gravity
+friction
+none of the above 
+5.What is the unit of power?
+Newton(N)
+Ampere(A)
+Ohm
+Watt

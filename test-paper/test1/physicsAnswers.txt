@@ -1,0 +1,5 @@
+Newton(N)
+negative
+friction
+conduction
+Watt

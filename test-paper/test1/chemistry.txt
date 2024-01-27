@@ -1,0 +1,25 @@
+1.What is the smallest unit of an element? 
+molecule
+tissue
+atom
+neutron
+2.What is the term for a substance that cannot be broken down into simpler substances by chemical means?
+element
+compound
+both can be broken 
+none can be broken
+3.What is the process of a substance changing from a gas to a liquid?
+condensation
+evaporation
+sublimation
+none of the above 
+4.What is the term for a substance formed by the chemical combination of two or more elements in fixed proportions?
+atom
+molecule
+both above
+compound 
+5.What is the branch of chemistry that deals with the study of carbon compounds?
+physical
+organic
+in-organic
+none

@@ -1,0 +1,25 @@
+1.What is the term for a whole number greater than 1 that has no positive divisors other than 1 and itself? 
+Whole numbers
+prime numbers
+natural numbers
+none of the above
+2.What is the ratio of the circumference of a circle to its diameter?
+pi
+pi/2
+2pi
+pi^2
+3.What is the branch of mathematics dealing with the properties and relationships of space and figures?
+algebra
+kinematics
+geometry
+statistics 
+4.What is the process of finding the derivative of a function?
+differentiation
+integration
+simplification
+none of the above 
+5.What is the term for a three-sided polygon?
+circle
+square
+kite
+triangle
